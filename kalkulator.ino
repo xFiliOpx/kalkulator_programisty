@@ -1,6 +1,6 @@
 #include "Nokia_5110.h"
 
-#define RST 2 //definiowanie pinow z wyswietlacza XDXDtestXDXD
+#define RST 2 //definiowanie pinow z wyswietlacza
 #define CE 3
 #define DC 4
 #define DIN 5
